@@ -68,7 +68,7 @@ main{
 .mypicture{
     height: 350px;
     width: 350px;
-    background-image: url("Snapchat-1036226435.jpg");
+    background-image: url("projects/pictures/Snapchat-1036226435.jpg");
     background-size: cover;
     margin-right: 300px;
     
@@ -132,11 +132,11 @@ main{
     margin: 0px 40px;
 }
 .projectphoto1{
-    background-image:url("amazon ss.PNG")  ;
+    background-image:url("projects/pictures/amazon ss.PNG")  ;
     background-size:cover ;
 }
 .projectphoto2{
-    background-image:url("Capture netflix ss.PNG") ;
+    background-image:url("projects/pictures/Capture netflix ss.PNG") ;
     background-size: cover;
 }
 
